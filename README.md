@@ -1,2 +1,2 @@
 # Kubernetes Sample
-Example app using Docker, Kubernetes, AWS, Redis, Nginx, ReactJS and NodeJS.
+Example app using Docker, Kubernetes, AWS, Redis, Postgres, Nginx, ReactJS and NodeJS.
